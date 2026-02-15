@@ -24,5 +24,5 @@ Choosing a small value of K in KNN makes the model sensitive to noise (high vari
 Choosing a large value of K makes the model more generalised but may increase bias.
 Cross-validation helps in selecting the optimal value of K and improves model reliability.
 
-Conclusion
+Conclusion:-
 This assignment demonstrates that distance-based algorithms like KNN and K-Means are simple yet powerful techniques for classification and clustering tasks. The performance of these models strongly depends on the choice of distance metric and the value of K. Proper tuning and evaluation help improve the overall model performance.
